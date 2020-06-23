@@ -1,3 +1,6 @@
+demo: https://mern-social-platform-mini.herokuapp.com/
+
+
 # social-network
 A MERN stack project on simple social media app with features like posting, following and messaging other users.
 
